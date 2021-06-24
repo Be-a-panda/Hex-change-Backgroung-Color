@@ -1,0 +1,16 @@
+.btn {
+    margin-top: 10vh;
+    margin-left: 40rem;
+    height: 2rem;
+    width: 6rem;
+    font-size: 0.9rem;
+    font-family: cursive;
+    border-radius: 0.5rem;
+}
+.btn:hover{
+    border-color: burlywood;
+}
+ .hex{
+    margin-left: 35rem;
+    margin-top: 40vh;
+}
